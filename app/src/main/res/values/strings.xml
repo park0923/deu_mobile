@@ -5,4 +5,8 @@
     <string name="button2">Button</string>
     <string name="button">Button</string>
     <string name="textview4">TextView</string>
+    <string name="idtext">ID</string>
+    <string name="pwtext">PASSWORD</string>
+    <string name="nametext">NAME</string>
+    <string name="phonetext">PHON-NUMBER</string>
 </resources>

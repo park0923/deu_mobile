@@ -22,6 +22,10 @@
             android:name=".WebViewActivity"
             android:label="Web">
         </activity>
+        <activity
+            android:name=".SingIn"
+            android:label="singin">
+        </activity>
     </application>
 
 </manifest>

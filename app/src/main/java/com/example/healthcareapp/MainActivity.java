@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         Button button = (Button) v.findViewById(id);
         String tag = (String) button.getTag();
 
-        Intent intent = new Intent(this, WebViewActivity.class);
+        Intent intent = new Intent(this, SingIn.class);
         intent.putExtra("arg", tag);
         startActivity(intent);
     }
